@@ -5,7 +5,8 @@
 }
 
 body { 
-	background-color: white;
+	background-color: WhiteSmoke;
+ 	background: linear-gradient(LightYellow, white);
 	font: 16px Helvetica,
 	Sans-Serif; 
 	line-height: 24px; 
